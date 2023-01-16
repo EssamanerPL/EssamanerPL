@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EssamanerPL
 - 👀 I’m interested in Formula 1, Codding and Music
 - 🌱 I’m currently learning java script
-- 📫 How to reach me? http://codingsite.pl
+- 📫 Visit this site -> http://codingsite.pl 
 
 <!---
 EssamanerPL/EssamanerPL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
